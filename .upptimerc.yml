@@ -14,6 +14,28 @@ sites:
     url: https://maryvilleu.zoom.us/
   - name: Self Service
     url: https://selfservice.maryville.edu/Student
+  - name: Slack
+    url: https://maryville.enterprise.slack.com
+  - name: Kaltura
+    url: https://watch.maryville.edu
+  - name: Email
+    url: https://mail.maryville.edu/
+  - name: Okta
+    url: https://launch.maryville.edu
+  - name: Community
+    url: https://community.maryville.edu/s/
+  - name: Tutor.com
+    url: https://leo.tutor.com/
+  - name: Grammarly
+    url: https://app.grammarly.com/
+  - name: LinkedIn Learning
+    url: https://www.linkedin.com/learning/
+  - name: You
+    url: https://you.com/
+  - name: Qualtrics
+    url: https://maryville.pdx1.qualtrics.com/
+  - name: Course Evaluations
+    url: https://maryvillece.qualtrics.com/
   #- name: IPv6 test
   #  url: forwardemail.net
   #  port: 80
