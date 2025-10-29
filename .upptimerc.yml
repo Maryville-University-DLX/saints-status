@@ -5,13 +5,17 @@ repo: saints-status # The name of this repository
 sites:
   - name: Canvas LMS
     url: https://maryville.instructure.com
-    icon: https://maryville.instructure.com//favicon.ico
+    icon: https://maryville.instructure.com/favicon.ico
   - name: Maryville.edu
     url: https://www.maryville.edu
   - name: Simple Syllabus
     url: https://maryville.simplesyllabus.com/
   - name: Zoom
     url: https://maryvilleu.zoom.us/
+  - name: Self Service
+    url: https://selfservice.maryville.edu/Student
+  - name: Colleague
+    url: https://ui5.maryville.edu/
   #- name: IPv6 test
   #  url: forwardemail.net
   #  port: 80
