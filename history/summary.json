@@ -238,19 +238,19 @@
     "url": "https://www.office365.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.office365.com.ico",
     "slug": "ms-office",
-    "status": "down",
-    "uptime": "98.68%",
-    "uptimeDay": "98.68%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "98.68%",
-    "uptimeYear": "98.68%",
-    "time": 26274,
-    "timeDay": 26274,
-    "timeWeek": 26274,
-    "timeMonth": 26274,
-    "timeYear": 26274,
+    "status": "up",
+    "uptime": "74.37%",
+    "uptimeDay": "74.37%",
+    "uptimeWeek": "74.37%",
+    "uptimeMonth": "74.37%",
+    "uptimeYear": "74.37%",
+    "time": 26428,
+    "timeDay": 26428,
+    "timeWeek": 26428,
+    "timeMonth": 26428,
+    "timeYear": 26428,
     "dailyMinutesDown": {
-      "2025-10-29": 0
+      "2025-10-29": 9
     }
   }
 ]
