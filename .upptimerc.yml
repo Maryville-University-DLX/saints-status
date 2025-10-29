@@ -18,12 +18,8 @@ sites:
     url: https://maryville.enterprise.slack.com
   - name: Kaltura
     url: https://maryville.mediaspace.kaltura.com/
-  - name: Email
-    url: https://mail.maryville.edu/
   - name: Okta
     url: https://launch.maryville.edu
-  - name: Community
-    url: https://community.maryville.edu/s/
   - name: Tutor.com
     url: https://leo.tutor.com/
   - name: Grammarly
@@ -34,8 +30,6 @@ sites:
     url: https://you.com/
   - name: Qualtrics
     url: https://maryville.pdx1.qualtrics.com/
-  - name: Course Evaluations
-    url: https://maryvillece.qualtrics.com/
   #- name: IPv6 test
   #  url: forwardemail.net
   #  port: 80
