@@ -17,7 +17,7 @@ sites:
   - name: Slack
     url: https://maryville.enterprise.slack.com
   - name: Kaltura
-    url: https://watch.maryville.edu
+    url: https://maryville.mediaspace.kaltura.com/
   - name: Email
     url: https://mail.maryville.edu/
   - name: Okta
