@@ -30,8 +30,6 @@ sites:
     url: https://you.com/
   - name: Qualtrics
     url: https://maryville.pdx1.qualtrics.com/
-  - name: Email
-    url: https://outlook.office365.com/
   - name: MS Office
     url: https://www.office365.com/
   #- name: IPv6 test
