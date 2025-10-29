@@ -14,8 +14,6 @@ sites:
     url: https://maryvilleu.zoom.us/
   - name: Self Service
     url: https://selfservice.maryville.edu/Student
-  - name: Colleague
-    url: https://ui5.maryville.edu/
   #- name: IPv6 test
   #  url: forwardemail.net
   #  port: 80
