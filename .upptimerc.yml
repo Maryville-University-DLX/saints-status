@@ -47,7 +47,8 @@ status-website:
   name: Saints Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/Maryville-University-DLX/saints-status). 
-  theme: dark
+  themeUrl: https://Maryville-University-DLX.github.io/saints-status/custom.css
+  theme: custom
   
   navbar:
     - title: Status
