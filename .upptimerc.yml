@@ -49,7 +49,7 @@ status-website:
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/Maryville-University-DLX/saints-status). 
   themeUrl: https://Maryville-University-DLX.github.io/saints-status/custom.css
   theme: custom
-  
+  logoUrl: https://Maryville-University-DLX.github.io/saints-status/logo.png
   navbar:
     - title: Status
       href: /
