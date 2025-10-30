@@ -47,7 +47,7 @@ status-website:
   logoUrl: https://Maryville-University-DLX.github.io/saints-status/logo.png
   name: Saints Status
   introTitle: "**Maryville University System Status Page"
-  introMessage: ... 
+  introMessage:  
   themeUrl: https://Maryville-University-DLX.github.io/saints-status/custom.css
   theme: custom
   
