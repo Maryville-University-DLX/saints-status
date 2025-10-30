@@ -45,6 +45,8 @@ status-website:
   baseUrl: /saints-status
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   logoUrl: https://Maryville-University-DLX.github.io/saints-status/logo.png
+  favicon: https://Maryville-University-DLX.github.io/saints-status/logo.png
+  faviconSvg: https://Maryville-University-DLX.github.io/saints-status/logo.svg
   name: Saints Status
   introTitle: "**Maryville University System Status Page"
   introMessage:  
