@@ -44,12 +44,13 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /saints-status
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://Maryville-University-DLX.github.io/saints-status/logo.png
   name: Saints Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/Maryville-University-DLX/saints-status). 
+  introTitle: "**Maryville University System Status Page"
+  introMessage: ... 
   themeUrl: https://Maryville-University-DLX.github.io/saints-status/custom.css
   theme: custom
-  logoUrl: https://Maryville-University-DLX.github.io/saints-status/logo.png
+  
   navbar:
     - title: Status
       href: /
