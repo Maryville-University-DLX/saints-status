@@ -1,7 +1,7 @@
 url: https://selfservice.maryville.edu/Student
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-13T08:45:06.483Z
+status: up
+code: 200
+responseTime: 525
+lastUpdated: 2025-11-13T08:56:51.335Z
 startTime: 2025-10-29T15:26:45.225Z
 generator: Upptime <https://github.com/upptime/upptime>
