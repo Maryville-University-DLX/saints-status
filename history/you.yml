@@ -1,7 +1,7 @@
 url: https://you.com/
-status: down
-code: 500
-responseTime: 303
-lastUpdated: 2025-12-05T08:57:28.250Z
+status: up
+code: 200
+responseTime: 235
+lastUpdated: 2025-12-05T09:27:09.033Z
 startTime: 2025-10-29T16:46:51.761Z
 generator: Upptime <https://github.com/upptime/upptime>
