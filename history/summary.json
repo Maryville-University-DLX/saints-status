@@ -216,12 +216,12 @@
     "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.64%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.73%",
     "time": 285,
     "timeDay": 246,
     "timeWeek": 277,
-    "timeMonth": 263,
+    "timeMonth": 265,
     "timeYear": 285,
     "dailyMinutesDown": {
       "2026-01-05": 16,
@@ -261,9 +261,9 @@
     "url": "https://www.office365.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.office365.com.ico",
     "slug": "ms-office",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -273,6 +273,7 @@
     "timeMonth": 481,
     "timeYear": 1096,
     "dailyMinutesDown": {
+      "2026-01-08": 0,
       "2025-10-29": 15
     }
   }
