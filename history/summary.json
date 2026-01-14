@@ -216,7 +216,7 @@
     "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.71%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.75%",
     "time": 286,
     "timeDay": 420,
@@ -243,18 +243,20 @@
     "url": "https://maryville.pdx1.qualtrics.com/",
     "icon": "https://icons.duckduckgo.com/ip3/maryville.pdx1.qualtrics.com.ico",
     "slug": "qualtrics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 564,
-    "timeDay": 796,
-    "timeWeek": 629,
-    "timeMonth": 608,
-    "timeYear": 564,
-    "dailyMinutesDown": {}
+    "time": 561,
+    "timeDay": 514,
+    "timeWeek": 579,
+    "timeMonth": 596,
+    "timeYear": 561,
+    "dailyMinutesDown": {
+      "2026-01-14": 0
+    }
   },
   {
     "name": "MS Office",
