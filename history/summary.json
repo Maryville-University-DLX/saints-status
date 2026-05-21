@@ -252,19 +252,19 @@
     "url": "https://maryville.pdx1.qualtrics.com/",
     "icon": "https://icons.duckduckgo.com/ip3/maryville.pdx1.qualtrics.com.ico",
     "slug": "qualtrics",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "96.89%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.98%",
     "time": 569,
-    "timeDay": 322,
-    "timeWeek": 711,
-    "timeMonth": 612,
+    "timeDay": 385,
+    "timeWeek": 689,
+    "timeMonth": 608,
     "timeYear": 569,
     "dailyMinutesDown": {
-      "2026-05-21": 0
+      "2026-05-21": 45
     }
   },
   {
