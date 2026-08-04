@@ -49,14 +49,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/maryville.simplesyllabus.com.ico",
     "slug": "simple-syllabus",
     "status": "up",
-    "uptime": "79.43%",
+    "uptime": "79.49%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.83%",
-    "uptimeMonth": "18.76%",
-    "uptimeYear": "79.43%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "21.33%",
+    "uptimeYear": "79.49%",
     "time": 887,
     "timeDay": 765,
-    "timeWeek": 1123,
+    "timeWeek": 1025,
     "timeMonth": 301,
     "timeYear": 887,
     "dailyMinutesDown": {
@@ -171,11 +171,11 @@
     "url": "https://maryville.enterprise.slack.com",
     "icon": "https://icons.duckduckgo.com/ip3/maryville.enterprise.slack.com.ico",
     "slug": "slack",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 290,
     "timeDay": 291,
@@ -184,7 +184,8 @@
     "timeYear": 290,
     "dailyMinutesDown": {
       "2026-06-06": 37,
-      "2026-06-10": 47
+      "2026-06-10": 47,
+      "2026-08-04": 5
     }
   },
   {
@@ -250,9 +251,9 @@
     "url": "https://app.grammarly.com/",
     "icon": "https://icons.duckduckgo.com/ip3/app.grammarly.com.ico",
     "slug": "grammarly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -263,7 +264,8 @@
     "timeYear": 415,
     "dailyMinutesDown": {
       "2026-06-06": 32,
-      "2026-06-10": 42
+      "2026-06-10": 42,
+      "2026-08-04": 0
     }
   },
   {
