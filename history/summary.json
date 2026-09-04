@@ -4,16 +4,16 @@
     "url": "https://maryville.instructure.com",
     "icon": "https://maryville.instructure.com/favicon.ico",
     "slug": "canvas-lms",
-    "status": "down",
+    "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.76%",
     "time": 566,
-    "timeDay": 142,
-    "timeWeek": 410,
-    "timeMonth": 485,
+    "timeDay": 286,
+    "timeWeek": 423,
+    "timeMonth": 488,
     "timeYear": 566,
     "dailyMinutesDown": {
       "2026-05-08": 182,
@@ -23,7 +23,7 @@
       "2026-07-16": 212,
       "2026-07-21": 158,
       "2026-08-01": 28,
-      "2026-09-04": 0
+      "2026-09-04": 19
     }
   },
   {
