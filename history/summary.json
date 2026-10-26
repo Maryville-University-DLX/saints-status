@@ -151,21 +151,21 @@
     "url": "https://selfservice.maryville.edu/Student",
     "icon": "https://icons.duckduckgo.com/ip3/selfservice.maryville.edu.ico",
     "slug": "self-service",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "91.16%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.96%",
     "time": 445,
-    "timeDay": 757,
-    "timeWeek": 466,
-    "timeMonth": 506,
+    "timeDay": 693,
+    "timeWeek": 486,
+    "timeMonth": 510,
     "timeYear": 445,
     "dailyMinutesDown": {
       "2025-12-10": 35,
       "2026-02-18": 30,
-      "2026-10-26": 5
+      "2026-10-26": 127
     }
   },
   {
@@ -215,20 +215,20 @@
     "url": "https://launch.maryville.edu",
     "icon": "https://icons.duckduckgo.com/ip3/launch.maryville.edu.ico",
     "slug": "okta",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.87%",
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "91.44%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.85%",
     "time": 637,
-    "timeDay": 884,
-    "timeWeek": 587,
-    "timeMonth": 737,
+    "timeDay": 916,
+    "timeWeek": 632,
+    "timeMonth": 743,
     "timeYear": 637,
     "dailyMinutesDown": {
       "2025-12-04": 653,
-      "2026-10-26": 0
+      "2026-10-26": 123
     }
   },
   {
